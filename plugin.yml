@@ -1,0 +1,7 @@
+name: GadgetSystem
+author: azer
+version: 1.0
+main: levitation.group.main
+
+commands:
+    gadgets:
